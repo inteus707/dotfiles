@@ -1,0 +1,6 @@
+alias apt='sudo apt'
+alias agu='sudo apt update && sudo apt upgrade -y'
+alias less='less -R'
+alias diff='colordiff'
+alias dc='cd'
+alias top='htop'
